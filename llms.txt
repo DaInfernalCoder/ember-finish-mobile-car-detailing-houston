@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CX_oWRgSsveZEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://emberfinish.shop/services/)
+- [Interior Car Detailing](https://emberfinish.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://emberfinish.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://emberfinish.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://emberfinish.shop/services/headlight-restoration/)
+- [About](https://emberfinish.shop/about/)
+- [Contact](https://emberfinish.shop/contact/)
+<!-- SEO-NEXT:END -->
