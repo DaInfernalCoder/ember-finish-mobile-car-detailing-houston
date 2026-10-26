@@ -8,7 +8,7 @@ Create and launch Ember Finish Mobile Car Detailing Houston as site 18 of the 10
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `emberfinish.shop` (registered July 28, 2026)
+- Registered domain: `sugarlandcardetailingcompany.shop` (registered July 28, 2026)
 - Public phone: `+1 346-586-1924`
 - Street address: `5725 Commonwealth Blvd, Sugar Land, TX 77479`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -41,7 +41,7 @@ The public GitHub repository is connected to a `READY` Vercel production project
 
 ## Production links
 
-- Website: https://emberfinish.shop
+- Website: https://sugarlandcardetailingcompany.shop
 - Vercel fallback: https://ember-finish-mobile-car-detailing-h.vercel.app
 - GitHub: https://github.com/DaInfernalCoder/ember-finish-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/ember-finish-mobile-car-detailing-houston
