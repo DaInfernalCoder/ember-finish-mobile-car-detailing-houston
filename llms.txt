@@ -1,4 +1,4 @@
-# Ember Finish Mobile Car Detailing Houston
+# Sugar Land Car Detailing Company
 
 > Appointment-based mobile car detailing in Sugar Land, Texas.
 
@@ -8,7 +8,7 @@
 - [Local service information](https://sugarlandcardetailingcompany.shop/#local-detailing): How mobile detailing works in Sugar Land.
 
 ## Verified business facts
-- Business name: Ember Finish Mobile Car Detailing Houston
+- Business name: Sugar Land Car Detailing Company
 - Primary service area: Sugar Land, Texas
 - Telephone: +1 346-586-1924
 - Service: Appointment-based mobile car detailing
