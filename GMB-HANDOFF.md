@@ -12,7 +12,7 @@ Create and launch Ember Finish Mobile Car Detailing Houston as site 18 of the 10
 - Public phone: `+1 346-586-1924`
 - Street address: `5725 Commonwealth Blvd, Sugar Land, TX 77479`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://sugarlandcardetailingcompany.shop/scheduling
 
 ## Truth constraints
 
